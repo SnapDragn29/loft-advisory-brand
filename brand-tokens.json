@@ -1,0 +1,214 @@
+{
+  "metadata": {
+    "name": "LOFT Advisory",
+    "version": "1.0.0",
+    "source": "../BRAND_SYSTEM.md",
+    "format": "LOFT plain JSON; not a DTCG interchange schema",
+    "units": "Lengths use px; line heights are unitless.",
+    "precedence": "BRAND_SYSTEM.md is authoritative. Ranges are suggestions, not fixed sizes."
+  },
+  "colors": {
+    "soft-ivory": "#F7F3EC",
+    "champagne-cream": "#EEE6DA",
+    "cool-taupe": "#D4CBC0",
+    "charcoal-brown": "#34302D",
+    "ink-blue": "#2B4057",
+    "aubergine": "#65505F",
+    "deep-logo-navy": "#24384A"
+  },
+  "semanticColors": {
+    "canvas": "#F7F3EC",
+    "surface-secondary": "#EEE6DA",
+    "surface-strong-neutral": "#D4CBC0",
+    "text-body": "#34302D",
+    "heading": "#2B4057",
+    "accent-primary": "#2B4057",
+    "accent-secondary": "#65505F",
+    "dark-primary": "#2B4057",
+    "dark-secondary": "#65505F",
+    "text-on-dark": "#F7F3EC",
+    "logo-navy": "#24384A",
+    "logo-ivory": "#F7F3EC",
+    "button-primary-background": "#2B4057",
+    "button-primary-text": "#F7F3EC",
+    "button-primary-hover": "#24384A",
+    "button-secondary-border": "#2B4057",
+    "button-secondary-text": "#2B4057",
+    "button-secondary-hover": "#EEE6DA",
+    "link": "#2B4057",
+    "link-minor-emphasis": "#65505F",
+    "selected-background": "#D4CBC0",
+    "selected-text": "#2B4057",
+    "field-background": "#F7F3EC",
+    "field-border": "#D4CBC0",
+    "field-text": "#34302D",
+    "field-focus": "#2B4057"
+  },
+  "typography": {
+    "families": {
+      "editorial": {
+        "name": "Lora",
+        "provider": "Google Fonts",
+        "intendedWeights": {
+          "regular": 400
+        }
+      },
+      "functional": {
+        "name": "DM Sans",
+        "provider": "Google Fonts",
+        "intendedWeights": {
+          "regular": 400,
+          "medium": 500
+        }
+      }
+    },
+    "weightPolicy": "Lora generally Regular. DM Sans Regular by default; Medium selectively. SemiBold (600) and Bold (700) only for a real legibility requirement.",
+    "desktopHierarchy": {
+      "hero": {
+        "family": "Lora",
+        "weight": 400,
+        "fontSizePx": {
+          "min": 56,
+          "max": 64
+        },
+        "status": "suggested-desktop",
+        "lineHeight": {
+          "min": 1.05,
+          "max": 1.12,
+          "unit": "unitless"
+        }
+      },
+      "section": {
+        "family": "Lora",
+        "weight": 400,
+        "fontSizePx": {
+          "min": 34,
+          "max": 42
+        },
+        "status": "suggested-desktop"
+      },
+      "body": {
+        "family": "DM Sans",
+        "weight": 400,
+        "fontSizePx": {
+          "min": 17,
+          "max": 19
+        },
+        "status": "suggested-desktop",
+        "lineHeight": {
+          "min": 1.5,
+          "max": 1.6,
+          "unit": "unitless"
+        }
+      },
+      "eyebrow": {
+        "alternatives": [
+          {
+            "family": "Lora",
+            "weight": 400
+          },
+          {
+            "family": "DM Sans",
+            "weight": 500
+          }
+        ],
+        "fontSizePx": {
+          "min": 12,
+          "max": 14
+        },
+        "status": "suggested-desktop"
+      },
+      "button": {
+        "family": "DM Sans",
+        "weight": 500,
+        "fontSizePx": {
+          "min": 15,
+          "max": 16
+        },
+        "status": "suggested-desktop"
+      },
+      "caption": {
+        "family": "DM Sans",
+        "weight": 400,
+        "fontSizePx": {
+          "min": 13,
+          "max": 14
+        },
+        "status": "suggested-desktop"
+      }
+    },
+    "numerals": {
+      "editorial": "Lora",
+      "functional": "DM Sans"
+    },
+    "capitalization": {
+      "Lora": "Intentional uppercase permitted.",
+      "DM Sans": "Generally sentence case or title case."
+    }
+  },
+  "ui": {
+    "primaryButton": {
+      "background": "#2B4057",
+      "text": "#F7F3EC",
+      "fontFamily": "DM Sans",
+      "fontWeight": 500,
+      "fontSizePx": {
+        "min": 15,
+        "max": 16
+      },
+      "paddingPx": {
+        "vertical": 14,
+        "horizontal": 24,
+        "status": "approximate"
+      },
+      "borderRadiusPx": 2,
+      "hoverBackground": "#24384A"
+    },
+    "secondaryButton": {
+      "background": "transparent",
+      "border": {
+        "widthPx": 1,
+        "color": "#2B4057"
+      },
+      "text": "#2B4057",
+      "borderRadiusPx": 2,
+      "hoverBackground": "#EEE6DA"
+    },
+    "textLink": {
+      "color": "#2B4057",
+      "hover": "Underline or otherwise increase visual distinction.",
+      "optionalMinorEmphasisColor": "#65505F"
+    },
+    "selectedActive": {
+      "background": "#D4CBC0",
+      "text": "#2B4057"
+    },
+    "formField": {
+      "background": "#F7F3EC",
+      "border": {
+        "widthPx": 1,
+        "color": "#D4CBC0"
+      },
+      "text": "#34302D",
+      "borderRadiusPx": 2,
+      "focus": {
+        "outlineColor": "#2B4057",
+        "treatment": "Restrained outline; width and offset unspecified."
+      }
+    },
+    "principle": "Straight edges, thin borders, restrained contrast, minimal decoration."
+  },
+  "unspecified": [
+    "Mobile type scale",
+    "Breakpoints",
+    "Spacing scale",
+    "Layout widths",
+    "Logo minimum dimensions",
+    "Logo clear-space measurements",
+    "Focus outline width and offset",
+    "Disabled/error/success states",
+    "Animation and duration",
+    "Print CMYK/Pantone values",
+    "Icon stroke width"
+  ]
+}

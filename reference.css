@@ -1,0 +1,48 @@
+/* Load tokens/tokens.css first. These opt-in references set no global layout. */
+.loft-canvas {
+  background: var(--loft-canvas);
+  color: var(--loft-text-body);
+  font-family: var(--loft-font-functional);
+  font-weight: var(--loft-weight-regular);
+}
+.loft-heading {
+  font-family: var(--loft-font-editorial);
+  font-weight: var(--loft-weight-regular);
+  color: var(--loft-heading);
+}
+.loft-button {
+  font-family: var(--loft-font-functional);
+  font-weight: var(--loft-weight-medium);
+  /* Choose 15–16px per context. No single fixed size is locked. */
+  padding: var(--loft-button-padding-y) var(--loft-button-padding-x);
+  border-radius: var(--loft-control-radius);
+}
+.loft-button--primary {
+  background: var(--loft-button-primary-background);
+  color: var(--loft-button-primary-text);
+  border: none; /* Implementation reset, not a new border token. */
+}
+.loft-button--primary:hover { background: var(--loft-button-primary-hover); }
+.loft-button--secondary {
+  background: var(--loft-button-secondary-background);
+  border: var(--loft-border-width) solid var(--loft-button-secondary-border);
+  color: var(--loft-button-secondary-text);
+}
+.loft-button--secondary:hover { background: var(--loft-button-secondary-hover); }
+.loft-link { color: var(--loft-link); }
+.loft-link:hover { text-decoration: underline; }
+.loft-selected { background: var(--loft-selected-background); color: var(--loft-selected-text); }
+.loft-field {
+  background: var(--loft-field-background);
+  border: var(--loft-border-width) solid var(--loft-field-border);
+  color: var(--loft-field-text);
+  border-radius: var(--loft-control-radius);
+  font-family: var(--loft-font-functional);
+  font-weight: var(--loft-weight-regular);
+}
+.loft-field:focus { outline-color: var(--loft-field-focus); }
+.loft-dark-primary { background: var(--loft-dark-primary); color: var(--loft-text-on-dark); }
+.loft-dark-secondary { background: var(--loft-dark-secondary); color: var(--loft-text-on-dark); }
+.loft-dark-primary .loft-heading,
+.loft-dark-secondary .loft-heading { color: var(--loft-text-on-dark); }
+.loft-logo { max-width: 100%; height: auto; }
