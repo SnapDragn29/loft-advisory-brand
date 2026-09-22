@@ -1,0 +1,197 @@
+{
+  "sourceCommit": "bbaa4750b71bfdabc4d1ed7c1a391a5df6dd9b1b",
+  "files": [
+    {
+      "originalPath": "LOFT word only new ivory png.png",
+      "newPath": "assets/logos/png/loft-wordmark-ivory.png",
+      "action": "Renamed; artwork unchanged",
+      "originalSha256": "3dd21ecebf3de38eb53f6049908296197cebdb5e88ea701c487c98760600f13c",
+      "newSha256": "3dd21ecebf3de38eb53f6049908296197cebdb5e88ea701c487c98760600f13c"
+    },
+    {
+      "originalPath": "LOFT word only new png.png",
+      "newPath": "assets/logos/png/loft-wordmark-navy.png",
+      "action": "Renamed; artwork unchanged",
+      "originalSha256": "9e81195f7208fd75e8373e8280d652c78f2c47e6ad39715d7b0d945c4821b1f8",
+      "newSha256": "9e81195f7208fd75e8373e8280d652c78f2c47e6ad39715d7b0d945c4821b1f8"
+    },
+    {
+      "originalPath": "LOFT wordmark new ivory png.png",
+      "newPath": "assets/logos/png/loft-advisory-ivory.png",
+      "action": "Renamed; artwork unchanged",
+      "originalSha256": "41346618b5ecd5232a1c1e85319a4cbf2f2c58c0165b85ea180e59e0b83d74c5",
+      "newSha256": "41346618b5ecd5232a1c1e85319a4cbf2f2c58c0165b85ea180e59e0b83d74c5"
+    },
+    {
+      "originalPath": "LOFT wordmark new png.png",
+      "newPath": "assets/logos/png/loft-advisory-navy.png",
+      "action": "Renamed; artwork unchanged",
+      "originalSha256": "81109eab5cc608c2c211536365748a8ad2cbd4edb1653a77396d85cede75ead6",
+      "newSha256": "81109eab5cc608c2c211536365748a8ad2cbd4edb1653a77396d85cede75ead6"
+    },
+    {
+      "originalPath": "AI_HANDOFF.md",
+      "newPath": "docs/AI_HANDOFF.md",
+      "action": "Updated / relocated",
+      "originalSha256": "a291df1be49efa377b83167db4487784aad2d013b5a025d981fa24b14cdc9be1",
+      "newSha256": "ce3b906fbd53222ced690e9ee5ab34e95ce7eedbeb6334bfdd8f730ea06d1eee"
+    },
+    {
+      "originalPath": "ASSETS_NEEDED.md",
+      "newPath": "docs/ASSETS_NEEDED.md",
+      "action": "Updated / relocated",
+      "originalSha256": "815bd98d05ced8ed7bf210d8f62264fb3420d51bd4f1a9608334e0d4c35e301d",
+      "newSha256": "b12307009ac977423490dcfe1dcc44e385c3dd5b0183d59332a64efcd63ed7e1"
+    },
+    {
+      "originalPath": "IMPLEMENTATION.md",
+      "newPath": "docs/IMPLEMENTATION.md",
+      "action": "Updated / relocated",
+      "originalSha256": "0bd58c6e196adfef06b2a02b87e6be99f8272e9f5029f1ec10893d3642d6f564",
+      "newSha256": "f3d1a77046fbe9c01cc6b2943546243ba2ff579508729bf2584f9a4e28045e7b"
+    },
+    {
+      "originalPath": "BRAND_SYSTEM.md",
+      "newPath": "BRAND_SYSTEM.md",
+      "action": "Updated / relocated",
+      "originalSha256": "68c3b282555ad5b0d22b4d011cbd38422eb99e3ee58bc01904804031271528a9",
+      "newSha256": "f260c2be5214a1742424f9040b67438848d0d9e7327b185b758de4259a4e51ad"
+    },
+    {
+      "originalPath": "README.md",
+      "newPath": "README.md",
+      "action": "Updated / relocated",
+      "originalSha256": "2cb6844b8576bddf9602b8d5cbd5de317e8d9943f9bb2ed503d9a762856cc247",
+      "newSha256": "5832289b248373023f90bc1f69606d8e864f5248d5f0d26d3548d657fcfdc99f"
+    },
+    {
+      "originalPath": "brand-tokens.json",
+      "newPath": "tokens/brand-tokens.json",
+      "action": "Updated / relocated",
+      "originalSha256": "8dc84364bed12623ec8400a9f7daa171c747f89737b64970ed9c330748c9fd4e",
+      "newSha256": "da75357667e311ffcb8065df6077c07ecd6bedee0729696b04a2c9ca20ebb0e1"
+    },
+    {
+      "originalPath": "tokens.css",
+      "newPath": "tokens/tokens.css",
+      "action": "Updated / relocated",
+      "originalSha256": "000707dffbc5c6d6f54fe90d92140ab7288ddbdeafc66cce5a28f792e3da3c5b",
+      "newSha256": "efc91b4755ae1fb5b1bbe9843c07cb14a977ce7b5cbfd601de7db0b36721bb06"
+    },
+    {
+      "originalPath": "components.html",
+      "newPath": "examples/components.html",
+      "action": "Updated / relocated",
+      "originalSha256": "993cccc999f57517252d1d00e5c8d7ec715eed92721922d70a05ef4f10b4fb5b",
+      "newSha256": "eca3c1d5e663c076917442e017885552529a8a3f018ea51290c1589e05a6223f"
+    },
+    {
+      "originalPath": "reference.css",
+      "newPath": "examples/reference.css",
+      "action": "Moved unchanged",
+      "originalSha256": "87563a31d6efea634ca364a87503cbd32a99a05e32706a0a1c0f23a2cf0aaeeb",
+      "newSha256": "87563a31d6efea634ca364a87503cbd32a99a05e32706a0a1c0f23a2cf0aaeeb"
+    },
+    {
+      "originalPath": "DESIGN.md",
+      "newPath": "archive/initial-brand-system/DESIGN.md",
+      "action": "Archived unchanged",
+      "originalSha256": "0c18e29188963f4ef2cb84d841a462f18d874648f2e6ee12e5f0ef57879c55c7",
+      "newSha256": "0c18e29188963f4ef2cb84d841a462f18d874648f2e6ee12e5f0ef57879c55c7"
+    },
+    {
+      "originalPath": "tokens.json",
+      "newPath": "archive/initial-brand-system/tokens.json",
+      "action": "Archived unchanged",
+      "originalSha256": "2abe80199a8e9bddbea79382245983203e48118b8206618127c51c68b2e41bb1",
+      "newSha256": "2abe80199a8e9bddbea79382245983203e48118b8206618127c51c68b2e41bb1"
+    },
+    {
+      "originalPath": "asset-manifest.json",
+      "newPath": "archive/previous-brand-system/asset-manifest.json",
+      "action": "Archived unchanged",
+      "originalSha256": "c53129d117ef5aa0e9d4c78c6131d8a31ea8fb6851ad3b9239c5bc822f634566",
+      "newSha256": "c53129d117ef5aa0e9d4c78c6131d8a31ea8fb6851ad3b9239c5bc822f634566"
+    },
+    {
+      "originalPath": "LOFT-wordmark-ivory.png",
+      "newPath": "archive/initial-brand-system/logos/loft-wordmark-ivory.png",
+      "action": "Archived unchanged",
+      "originalSha256": "f4529009372dd84cf822e53afafdb2c58fa7bad892bf0a832fe7c46b5ed8256c",
+      "newSha256": "f4529009372dd84cf822e53afafdb2c58fa7bad892bf0a832fe7c46b5ed8256c"
+    },
+    {
+      "originalPath": "LOFT-wordmark-ivory.svg",
+      "newPath": "archive/initial-brand-system/logos/loft-wordmark-ivory.svg",
+      "action": "Archived unchanged",
+      "originalSha256": "4d0ea914045ea0f98f7383b73c62730660ae6ff5a2e205829d4e068508d4da73",
+      "newSha256": "4d0ea914045ea0f98f7383b73c62730660ae6ff5a2e205829d4e068508d4da73"
+    },
+    {
+      "originalPath": "LOFT-wordmark-navy.png",
+      "newPath": "archive/initial-brand-system/logos/loft-wordmark-navy.png",
+      "action": "Archived unchanged",
+      "originalSha256": "bf8536b9e985e2102b80877d6c8d24fdfb73fe51ae69c476f6a78a1fbc1f6e7d",
+      "newSha256": "bf8536b9e985e2102b80877d6c8d24fdfb73fe51ae69c476f6a78a1fbc1f6e7d"
+    },
+    {
+      "originalPath": "LOFT-wordmark-navy.svg",
+      "newPath": "archive/initial-brand-system/logos/loft-wordmark-navy.svg",
+      "action": "Archived unchanged",
+      "originalSha256": "f41f538d2211afa5c1e8fa9d6a8d864aa2dac39e3f78ab03a6c4840f2a2e1045",
+      "newSha256": "f41f538d2211afa5c1e8fa9d6a8d864aa2dac39e3f78ab03a6c4840f2a2e1045"
+    },
+    {
+      "originalPath": "loft-advisory-ivory.png",
+      "newPath": "archive/previous-brand-system/logos/loft-advisory-ivory.png",
+      "action": "Archived unchanged",
+      "originalSha256": "1bfd235e623d01ae188b7ab3593d8824ed4bb8711f48e7dd73def531c2954a27",
+      "newSha256": "1bfd235e623d01ae188b7ab3593d8824ed4bb8711f48e7dd73def531c2954a27"
+    },
+    {
+      "originalPath": "loft-advisory-navy.png",
+      "newPath": "archive/previous-brand-system/logos/loft-advisory-navy.png",
+      "action": "Archived unchanged",
+      "originalSha256": "fbf21d2a1b6b0d19176f2197582da15e4274c61e4ff8324153ec4cd979968966",
+      "newSha256": "fbf21d2a1b6b0d19176f2197582da15e4274c61e4ff8324153ec4cd979968966"
+    },
+    {
+      "originalPath": "loft-wordmark-ivory.png",
+      "newPath": "archive/previous-brand-system/logos/loft-wordmark-ivory.png",
+      "action": "Archived unchanged",
+      "originalSha256": "11a86998d5e613d2317ce98a857bb43e2f7928fb42e17e06f7261c9b94df9eb8",
+      "newSha256": "11a86998d5e613d2317ce98a857bb43e2f7928fb42e17e06f7261c9b94df9eb8"
+    },
+    {
+      "originalPath": "loft-wordmark-navy.png",
+      "newPath": "archive/previous-brand-system/logos/loft-wordmark-navy.png",
+      "action": "Archived unchanged",
+      "originalSha256": "10653e31eb8b7f1395f39066a136d776f8c73a7343e3966fb3ec01746d745239",
+      "newSha256": "10653e31eb8b7f1395f39066a136d776f8c73a7343e3966fb3ec01746d745239"
+    }
+  ],
+  "addedUserAssets": [
+    {
+      "sourceFilename": "LOFT Favicon 32.png",
+      "path": "icons/loft-favicon-32.png",
+      "width": 32,
+      "height": 32,
+      "backgroundColor": "#2B4057",
+      "letterColor": "#F7F3EC",
+      "sha256": "6cb0071103133a883952482704ab50814124ee4f65f6b26775b5d7911a46785b",
+      "artworkModified": false,
+      "status": "current-approved"
+    },
+    {
+      "sourceFilename": "LOFT Icon 512 .png",
+      "path": "icons/loft-icon-512.png",
+      "width": 512,
+      "height": 512,
+      "backgroundColor": "#2B4057",
+      "letterColor": "#F7F3EC",
+      "sha256": "d1602381cd2067507944ea1bb7bfaf4b94b4ba7871b6ddbfca0aea320a530b88",
+      "artworkModified": false,
+      "status": "current-approved"
+    }
+  ]
+}

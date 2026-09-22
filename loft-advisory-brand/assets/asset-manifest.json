@@ -1,0 +1,94 @@
+{
+  "sourceRepository": "https://github.com/SnapDragn29/loft-advisory-brand",
+  "sourceCommit": "bbaa4750b71bfdabc4d1ed7c1a391a5df6dd9b1b",
+  "pathBase": "assets/ (relative to this manifest)",
+  "assets": [
+    {
+      "sourceFilename": "LOFT word only new ivory png.png",
+      "path": "logos/png/loft-wordmark-ivory.png",
+      "width": 3000,
+      "height": 1400,
+      "visibleBounds": [
+        710,
+        306,
+        2375,
+        900
+      ],
+      "dominantOpaqueColor": "#F7F3EC",
+      "sha256": "3dd21ecebf3de38eb53f6049908296197cebdb5e88ea701c487c98760600f13c",
+      "artworkModified": false,
+      "status": "current-approved"
+    },
+    {
+      "sourceFilename": "LOFT word only new png.png",
+      "path": "logos/png/loft-wordmark-navy.png",
+      "width": 3000,
+      "height": 1400,
+      "visibleBounds": [
+        710,
+        306,
+        2375,
+        900
+      ],
+      "dominantOpaqueColor": "#2B4057",
+      "sha256": "9e81195f7208fd75e8373e8280d652c78f2c47e6ad39715d7b0d945c4821b1f8",
+      "artworkModified": false,
+      "status": "current-approved"
+    },
+    {
+      "sourceFilename": "LOFT wordmark new ivory png.png",
+      "path": "logos/png/loft-advisory-ivory.png",
+      "width": 3000,
+      "height": 1400,
+      "visibleBounds": [
+        710,
+        306,
+        2458,
+        1146
+      ],
+      "dominantOpaqueColor": "#F7F3EC",
+      "sha256": "41346618b5ecd5232a1c1e85319a4cbf2f2c58c0165b85ea180e59e0b83d74c5",
+      "artworkModified": false,
+      "status": "current-approved"
+    },
+    {
+      "sourceFilename": "LOFT wordmark new png.png",
+      "path": "logos/png/loft-advisory-navy.png",
+      "width": 3000,
+      "height": 1400,
+      "visibleBounds": [
+        710,
+        306,
+        2458,
+        1146
+      ],
+      "dominantOpaqueColor": "#2B4057",
+      "sha256": "81109eab5cc608c2c211536365748a8ad2cbd4edb1653a77396d85cede75ead6",
+      "artworkModified": false,
+      "status": "current-approved"
+    },
+    {
+      "sourceFilename": "LOFT Favicon 32.png",
+      "path": "icons/loft-favicon-32.png",
+      "width": 32,
+      "height": 32,
+      "backgroundColor": "#2B4057",
+      "letterColor": "#F7F3EC",
+      "sha256": "6cb0071103133a883952482704ab50814124ee4f65f6b26775b5d7911a46785b",
+      "artworkModified": false,
+      "status": "current-approved"
+    },
+    {
+      "sourceFilename": "LOFT Icon 512 .png",
+      "path": "icons/loft-icon-512.png",
+      "width": 512,
+      "height": 512,
+      "backgroundColor": "#2B4057",
+      "letterColor": "#F7F3EC",
+      "sha256": "d1602381cd2067507944ea1bb7bfaf4b94b4ba7871b6ddbfca0aea320a530b88",
+      "artworkModified": false,
+      "status": "current-approved"
+    }
+  ],
+  "colorDecision": "User approved #2B4057 as the logo and icon background standard; #F7F3EC is the ivory standard."
+}

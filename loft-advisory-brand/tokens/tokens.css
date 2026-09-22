@@ -1,0 +1,68 @@
+/* Derived from BRAND_SYSTEM.md. Range endpoints are guidance, not a responsive scale. */
+:root {
+  --loft-color-soft-ivory: #F7F3EC;
+  --loft-color-champagne-cream: #EEE6DA;
+  --loft-color-cool-taupe: #D4CBC0;
+  --loft-color-charcoal-brown: #34302D;
+  --loft-color-ink-blue: #2B4057;
+  --loft-color-aubergine: #65505F;
+  --loft-color-deep-navy-hover: #24384A;
+  --loft-canvas: var(--loft-color-soft-ivory);
+  --loft-surface-secondary: var(--loft-color-champagne-cream);
+  --loft-surface-strong-neutral: var(--loft-color-cool-taupe);
+  --loft-text-body: var(--loft-color-charcoal-brown);
+  --loft-heading: var(--loft-color-ink-blue);
+  --loft-accent-primary: var(--loft-color-ink-blue);
+  --loft-accent-secondary: var(--loft-color-aubergine);
+  --loft-dark-primary: var(--loft-color-ink-blue);
+  --loft-dark-secondary: var(--loft-color-aubergine);
+  --loft-text-on-dark: var(--loft-color-soft-ivory);
+  --loft-logo-navy: var(--loft-color-ink-blue);
+  --loft-logo-ivory: var(--loft-color-soft-ivory);
+  --loft-button-primary-background: var(--loft-color-ink-blue);
+  --loft-button-primary-text: var(--loft-color-soft-ivory);
+  --loft-button-primary-hover: var(--loft-color-deep-navy-hover);
+  --loft-button-secondary-border: var(--loft-color-ink-blue);
+  --loft-button-secondary-text: var(--loft-color-ink-blue);
+  --loft-button-secondary-hover: var(--loft-color-champagne-cream);
+  --loft-link: var(--loft-color-ink-blue);
+  --loft-link-minor-emphasis: var(--loft-color-aubergine);
+  --loft-selected-background: var(--loft-color-cool-taupe);
+  --loft-selected-text: var(--loft-color-ink-blue);
+  --loft-field-background: var(--loft-color-soft-ivory);
+  --loft-field-border: var(--loft-color-cool-taupe);
+  --loft-field-text: var(--loft-color-charcoal-brown);
+  --loft-field-focus: var(--loft-color-ink-blue);
+  /* Generic fallbacks are technical fallbacks, not approved brand families. */
+  --loft-font-editorial: "Lora", serif;
+  --loft-font-functional: "DM Sans", sans-serif;
+  --loft-weight-regular: 400;
+  --loft-weight-medium: 500;
+  --loft-hero-size-min: 56px;
+  --loft-hero-size-max: 64px;
+  --loft-hero-line-height-min: 1.05;
+  --loft-hero-line-height-max: 1.12;
+  --loft-section-size-min: 34px;
+  --loft-section-size-max: 42px;
+  --loft-body-size-min: 17px;
+  --loft-body-size-max: 19px;
+  --loft-body-line-height-min: 1.5;
+  --loft-body-line-height-max: 1.6;
+  --loft-eyebrow-size-min: 12px;
+  --loft-eyebrow-size-max: 14px;
+  --loft-button-size-min: 15px;
+  --loft-button-size-max: 16px;
+  --loft-caption-size-min: 13px;
+  --loft-caption-size-max: 14px;
+  --loft-button-padding-y: 14px; /* Approximate. */
+  --loft-button-padding-x: 24px; /* Approximate. */
+  --loft-control-radius: 2px;
+  --loft-border-width: 1px;
+  --loft-button-secondary-background: transparent;
+}
+
+/* Square brand icon colors; original PNG exports included. */
+:root {
+  --loft-icon-background: var(--loft-color-ink-blue);
+  --loft-icon-letter: var(--loft-color-soft-ivory);
+}

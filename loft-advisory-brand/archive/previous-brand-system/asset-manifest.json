@@ -1,0 +1,80 @@
+{
+  "assets": [
+    {
+      "sourceFilename": "LOFT word only png.png",
+      "path": "png/loft-wordmark-navy.png",
+      "width": 3000,
+      "height": 1400,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "visibleBounds": [
+        647,
+        306,
+        2352,
+        900
+      ],
+      "dominantOpaqueColor": "#24384A",
+      "sha256": "10653e31eb8b7f1395f39066a136d776f8c73a7343e3966fb3ec01746d745239",
+      "modified": false
+    },
+    {
+      "sourceFilename": "LOFT word only ivory.png",
+      "path": "png/loft-wordmark-ivory.png",
+      "width": 3000,
+      "height": 1400,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "visibleBounds": [
+        647,
+        306,
+        2352,
+        900
+      ],
+      "dominantOpaqueColor": "#F7F3EC",
+      "sha256": "11a86998d5e613d2317ce98a857bb43e2f7928fb42e17e06f7261c9b94df9eb8",
+      "modified": false
+    },
+    {
+      "sourceFilename": "LOFT wordmark ivory png.png",
+      "path": "png/loft-advisory-ivory.png",
+      "width": 3000,
+      "height": 1400,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "visibleBounds": [
+        647,
+        306,
+        2352,
+        1188
+      ],
+      "dominantOpaqueColor": "#F7F3EC",
+      "sha256": "1bfd235e623d01ae188b7ab3593d8824ed4bb8711f48e7dd73def531c2954a27",
+      "modified": false
+    },
+    {
+      "sourceFilename": "LOFT wordmark png.png",
+      "path": "png/loft-advisory-navy.png",
+      "width": 3000,
+      "height": 1400,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "visibleBounds": [
+        647,
+        306,
+        2352,
+        1188
+      ],
+      "dominantOpaqueColor": "#24384A",
+      "sha256": "fbf21d2a1b6b0d19176f2197582da15e4274c61e4ff8324153ec4cd979968966",
+      "modified": false
+    }
+  ]
+}
