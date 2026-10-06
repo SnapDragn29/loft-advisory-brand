@@ -185,6 +185,11 @@ LOFT should sound like an experienced advisor speaking clearly to another accomp
 The identity is especially well suited to tactile print production.
 Preferred materials and techniques include thick uncoated or cotton stock, blind embossing or debossing, letterpress, restrained foil applications, matte finishes, and high-quality paper textures.
 The logo should be allowed to benefit from material and production quality rather than additional decoration.
+### Print-Specific Warm Ivory
+
+For future printed collateral where Soft Ivory #F7F3EC reproduces too cool or gray, use Warm Ivory #F8F3E8 as the preferred primary light background.
+
+This is a print-production adjustment only. It does not replace Soft Ivory #F7F3EC as the standard digital or website ivory unless specifically directed.
 
 ## Digital Logo Behavior
 
@@ -225,4 +230,8 @@ These paths contain the original exports. Do not generate substitutes from scree
 
 ## Retired guidance and copy
 
-Files under `archive/` are historical reference only. Do not use the earlier palette, Avenir/Raleway site typography, earlier logos, or experimental taglines from those documents in current work. “Elevating independent medicine” is retired; “Strategy for a stronger tomorrow” is not approved current copy. No replacement tagline is established by this cleanup.
+Files under `archive/` are historical reference only. Do not use the earlier palette, Avenir/Raleway site typography, earlier logos, or experimental taglines from those documents in current work. “Independent practice, thoughtfully built.” is the primary public-facing brand line.
+
+“Elevating independent medicine.” remains approved as a supporting brand expression for selective use, including brand signatures, philosophical messaging, campaigns, or closing language. It should not replace the primary positioning statement.
+
+“Strategy for a stronger tomorrow” is not approved current copy.
